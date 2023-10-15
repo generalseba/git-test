@@ -1,2 +1,3 @@
 Hello world how is ti going!
 I would like to say I feel much more confident using terminal
+I would like to check if the message flag is working
